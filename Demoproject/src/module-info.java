@@ -4,5 +4,5 @@
 /**
  * 
  */
-module demoproject {
+module Demoproject {
 }

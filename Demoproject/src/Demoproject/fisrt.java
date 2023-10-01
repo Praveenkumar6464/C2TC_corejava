@@ -1,9 +1,10 @@
-package demoproject;
+package Demoproject;
 
-public class first {
+public class fisrt {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome");
+
 	}
 
 }
